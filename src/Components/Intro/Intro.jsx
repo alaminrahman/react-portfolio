@@ -22,9 +22,9 @@ const Intro = () => {
                 <button className="i-button button">Hire me</button>
 
                 <div className="i-icons">
-                    <a href="#"><img src={ Github} alt="" /></a>
-                    <a href="#"><img src={ Linkedin} alt="" /></a>
-                    <a href="#"><img src={ Instagram} alt="" /></a>
+                    <a href="/"><img src={ Github} alt="" /></a>
+                    <a href="/"><img src={ Linkedin} alt="" /></a>
+                    <a href="/"><img src={ Instagram} alt="" /></a>
                 </div>
             </div>
 
